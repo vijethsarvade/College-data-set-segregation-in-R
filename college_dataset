@@ -1,4 +1,4 @@
-#K-means
+
 coll=read.csv("C:\\Users\\Prashanthi\\Desktop\\Python\\sir_working\\Algorithms\\Kmeans Clustering\\College.csv")
 names(coll)
 head(coll)
